@@ -3,6 +3,10 @@
 ## Overview
 This project involves analyzing Amazon Prime Video data using Power BI to create interactive dashboards. The dataset includes information about movies and TV shows available on Amazon Prime Video, with various attributes such as release year, genre, ratings, and country of origin.
 
+## Dashboard
+![image](https://github.com/user-attachments/assets/be12563b-4145-4001-8342-da039d6c96bb)
+
+
 ## Project Features
 - **Total Shows by Country:** Visual representation of the number of movies and TV shows by country.
 - **Total Shows by Release Year:** Historical trend of content released over the years.
